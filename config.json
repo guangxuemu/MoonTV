@@ -84,7 +84,102 @@
     "xiaomaomi": {
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
-    }
+    },
+    "27_A": {
+            "name": "AV-AIvin",
+            "api": "http://lbapiby.com/api.php/provide/vod",
+            "detail": ""
+        },
+        "28_Aaskzy": {
+            "name": "AV-奥斯卡资源",
+            "api": "https://aosikazy.com/api.php/provide/vod",
+            "detail": "https://aosikazy.com"
+        },
+        "29_Aclzy": {
+            "name": "AV-草榴资源",
+            "api": "https://www.caoliuzyw.com/api.php/prodao/vod",
+            "detail": "https://www.caoliuzyw.com"
+        },
+        "30_Afhzy": {
+            "name": "AV-番号资源",
+            "api": "http://fhapi9.com/api.php/provide/vod",
+            "detail": ""
+        },
+        "31_Ajpzy": {
+            "name": "AV-精品资源",
+            "api": "https://www.jingpinx.com/api.php/provide/vod",
+            "detail": "https://www.jingpinx.com"
+        },
+        "32_Aljzy": {
+            "name": "AV-辣椒资源",
+            "api": "https://apilj.com/api.php/provide/vod",
+            "detail": "https://apilj.com"
+        },
+        "33_Alsbzy": {
+            "name": "AV-老色逼资源",
+            "api": "https://apilsbzy1.com/api.php/provide/vod",
+            "detail": "https://apilsbzy1.com"
+        },
+        "34_Anxx": {
+            "name": "AV-奶香香",
+            "api": "https://Naixxzy.com/api.php/provide/vod",
+            "detail": "https://Naixxzy.com"
+        },
+        "35_Aslzy": {
+            "name": "AV-森林资源",
+            "api": "https://slapibf.com/api.php/provide/vod",
+            "detail": "https://slapibf.com"
+        },
+        "36_Asyzy": {
+            "name": "AV-鲨鱼资源",
+            "api": "https://shayuapi.com/api.php/provide/vod",
+            "detail": "https://shayuapi.com"
+        },
+        "37_Aytzy": {
+            "name": "AV-玉兔资源",
+            "api": "https://apiyutu.com/api.php/provide/vod",
+            "detail": "https://apiyutu.com"
+        },
+        "58_sng": {
+            "name": "AV-色南国",
+            "api": "https://api.sexnguon.com/api.php/provide/vod",
+            "detail": "https://api.sexnguon.com"
+        },
+        "62_smzy": {
+            "name": "AV-色猫资源",
+            "api": "https://api.maozyapi.com/inc/apijson_vod.php",
+            "detail": ""
+        },
+        "63_msnzy": {
+            "name": "AV-美少女资源",
+            "api": "https://www.msnii.com/api/json.php",
+            "detail": "https://www.msnii.com"
+        },
+        "64_ysjzy": {
+            "name": "AV-饮水机资源",
+            "api": "https://www.xrbsp.com/api/json.php",
+            "detail": "https://www.xrbsp.com"
+        },
+        "65_xnezy": {
+            "name": "AV-香奶儿资源",
+            "api": "https://www.gdlsp.com/api/json.php",
+            "detail": "https://www.gdlsp.com"
+        },
+        "66_bpzy": {
+            "name": "AV-白嫖资源",
+            "api": "https://www.kxgav.com/api/json.php",
+            "detail": "https://www.kxgav.com"
+        },
+        "67_hAzy": {
+            "name": "AV-黄AV资源",
+            "api": "https://www.pgxdy.com/api/json.php",
+            "detail": "https://www.pgxdy.com"
+        },
+        "61_lbzy": {
+            "name": "AV-乐播资源",
+            "api": "https://lbapi9.com/api.php/provide/vod",
+            "detail": ""
+        }
   },
   "custom_category": [
     {
