@@ -1,0 +1,75 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="renderer" content="webkit">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="_csrf" content="be1d91f1-00f0-4034-a174-4bfb76402753"/>
+    <meta name="_csrf_header" content="X-XSRF-TOKEN"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <title>证书管理</title>
+    <link rel="stylesheet" href="http://prize.hfjyyun.net.cn/certificate/static/vendor/layui/css/layui.css" media="all">
+    <script src="http://prize.hfjyyun.net.cn/certificate/static/vendor/jquery-1.9.0.min.js"></script>
+    <script src="http://prize.hfjyyun.net.cn/certificate/static/vendor/layui/layui.all.js"></script>
+    <script src="http://prize.hfjyyun.net.cn/certificate/static/js/js-template.js"></script>
+    <script type="text/javascript">
+        var base = "/certificate";
+        var token = $("meta[name='_csrf']").attr("content");
+        var header = $("meta[name='_csrf_header']").attr("content");
+        $.ajaxSetup({
+            beforeSend: function (xhr) {
+                if (header && token) {
+                    xhr.setRequestHeader(header, token);
+                }
+            }
+        });
+    </script>
+</head>
+<body>
+<div id="csrfContent"><input type="hidden" name="_csrf" value="be1d91f1-00f0-4034-a174-4bfb76402753"/></div><script>
+    document.title="证书信息";
+</script>
+<link rel="stylesheet" type="text/css" href="http://prize.hfjyyun.net.cn/certificate/static/css/prize.css">
+<div class="layui-container">
+    <div class="layui-card">
+        <div class="layui-card-body">
+                <div class="inner-bg">
+                    <table class="layui-table table-bg" lay-skin="line">
+                        <tr>
+                            <td>活动：合肥市第五批中小学学科带头人业务考核</td>
+                        </tr>
+                        <tr>
+                            <td>主办单位：合肥市教育局</td>
+                        </tr>
+                        <tr>
+                            <td>年份：2022年度</td>
+                        </tr>
+                        <tr>
+                            <td>作者：曹明山</td>
+                        </tr>
+                            <tr>
+                                <td>所在单位：合肥市第八中学</td>
+                            </tr>
+                        <tr>
+                            <td>证书编号：202211184563</td>
+                        </tr>
+                        <tr>
+                            <td>正文：在全市第五批中小学骨干教师和学科带头人评选活动中，被评为高中物理骨干教师，任期三年。
+特发此证，以资鼓励。
+所在单位：合肥市第八中学</td>
+                        </tr>
+                        <tr>
+                            <td>证书二维码：<img style="max-width: 350mm;max-height: 35mm" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZAAAAGQAQAAAACoxAthAAACi0lEQVR42u2cO47DMAxEmUrH0FGto+YYrsKNxa8SY4EtxR0XRj56rghqOKRM/OeLgAApgrxIr8Y8+vX1uh3P9r7x+XivuW5PW3UAqYUcMw50zfzdFl7XoDafML+8gJRDrmiYESJX999kzen/NiBlkSs43rEyb5IfeqQLIMURTRySHyRWZO9gIIUR3yxmhAwXDZozTvplfwGyOWJC0eTh7e1eWwLZHIkrKoS5bZhoYI+p77oSyOaIJom3NpiKgBdtQPpJ95NZPwCphpAoAtOIDzMLUs3ouhFIIYRzrLgiICkYwjZoriCB1ENGN0doSRweSWYgACmGDM0KphbZ9EIuDVmfAKQUYqmhWwdgNgRGt2cls4BCKgCpgbCsHilgpicg9iBltWgWAZAySLQBfE/wJKHpgl1IAKmHqBTULrD1B9QiiPph5KYwkBKIhUkPH0gkoxeJ9q80CYBUQtwUtOJA3AHpD5y+Y7RVKAKpgsRmYeUiJYsgOUd3UgHI5oiU/r76SFaR2wZTSHQg1RDvB3O0g1iLRI0aNpWQzGEgJRCv/90PpOgJrXlElgCphUi7z43C/jEX6uViz/sLkAoIpzHvw/vBNgsSg+FsS4CUQtQDPh9mFEoL0LWB7SI+EgCkDGLnPJ42+D+ohXxwGdnUMTiAVEI4N4Fi2xBZ4BWC9I7CUwJSA8kzX5QOf1EeA7E6cmkKA9kfyYOg1vulpAwpd4a/Z0eBbI2sQ+BxEOj2HOjd3DiQrRE7ABKHPNdRwDgIBKQgEmHS/TAAtZgP9piKMgFINSQKBspIPvTNQKoi3wFDbZkQuD0pDGRzJL3wYd02YvrfpwWBFENCKH4MgY9kCZ90ry2BbI3gPVdA/inyAwyOLJrUfxbMAAAAAElFTkSuQmCC">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                下载地址：<a href="#">点击下载打印证书</a>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+        </div>
+    </div>
+</div>
