@@ -14,6 +14,18 @@
       "api": "https://bfzyapi.com/api.php/provide/vod",
       "name": "暴风资源"
     },
+    "smdyw": {
+      "api": "https://img.smdyw.top/api.php/provide/vod",
+      "name": "神马资源"
+    },
+    "yzzy": {
+      "api": "http://api.yzzy-api.com/inc/apijson.php",
+      "name": "优质资源"
+    },
+    "qqkp": {
+      "api": "https://www.77kkpp.com/api.php/provide/vod",
+      "name": "七七看片"
+    },
     "tyyszy": {
       "api": "https://tyyszy.com/api.php/provide/vod",
       "name": "天涯资源"
@@ -269,4 +281,5 @@
   }
 
 }
+
 
