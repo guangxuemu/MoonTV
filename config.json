@@ -192,9 +192,9 @@
       "is_adult": true
     },
     "apiyutu": {
-      "api": "https://apiyutu.com/api.php/provide/vod",
+      "api": "https://yutuzy10.com/api.php/provide/vod",
       "name": "AV-玉兔资源",
-      "detail": "https://apiyutu.com",
+      "detail": "https://yutuzy10.com",
       "is_adult": true
     },
     "fhapi9": {
@@ -281,5 +281,6 @@
   }
 
 }
+
 
 
